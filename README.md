@@ -14,7 +14,7 @@
  This CLI generates a software team web app after the user answers the prompted questions.
 
 ### Project Link:
-[Team Generator](https://github.com/ambertrand/Team-Summary)
+[Team Generator](https://ambertrand.github.io/Team-Summary/output/team.html)
 
 ## Technologies Used
     * Basic: Javascript
